@@ -1,0 +1,332 @@
+[
+  {
+    "subject": "Aptitude Test",
+    "question_text": "All Germans speak Italian. All Italian speakers ride bicycles. Which of the statements is correct?",
+    "explanation": null,
+    "options": [
+      { "letter": "A", "text": "Some of the Italians riding bicycles are Germans", "is_correct": false },
+      { "letter": "B", "text": "All Italians speak German", "is_correct": false },
+      { "letter": "C", "text": "All Germans ride bicycles", "is_correct": true },
+      { "letter": "D", "text": "All bicycle riders are German", "is_correct": false }
+    ]
+  },
+  {
+    "subject": "Aptitude Test",
+    "question_text": "Nigeria's first Minister of Petroleum resources is",
+    "explanation": null,
+    "options": [
+      { "letter": "A", "text": "Prof. Tam David West", "is_correct": false },
+      { "letter": "B", "text": "Dr. Ibe Kachikwu", "is_correct": false },
+      { "letter": "C", "text": "Alh. Shettima Alli Monguno", "is_correct": true },
+      { "letter": "D", "text": "Prof. Jubril Aminu", "is_correct": false }
+    ]
+  },
+  {
+    "subject": "Aptitude Test",
+    "question_text": "Statements: All cups are pencils. Some pencils are pens.\nConclusions:\nI. Some pencils are cups.\nII. No pencil are cups.\nIII. Some cups are pens.",
+    "explanation": null,
+    "options": [
+      { "letter": "A", "text": "Only conclusion I follows", "is_correct": true },
+      { "letter": "B", "text": "Only conclusion I and II follow", "is_correct": false },
+      { "letter": "C", "text": "Conclusion II and III follow", "is_correct": false },
+      { "letter": "D", "text": "None of these", "is_correct": false }
+    ]
+  },
+  {
+    "subject": "Aptitude Test",
+    "question_text": "The first capital of Nigeria is",
+    "explanation": null,
+    "options": [
+      { "letter": "A", "text": "Calabar", "is_correct": true },
+      { "letter": "B", "text": "Lagos", "is_correct": false },
+      { "letter": "C", "text": "Abuja", "is_correct": false },
+      { "letter": "D", "text": "Kano", "is_correct": false }
+    ]
+  },
+  {
+    "subject": "Aptitude Test",
+    "question_text": "Mouth and foot diseases in cattle are caused by",
+    "explanation": null,
+    "options": [
+      { "letter": "A", "text": "Fungi", "is_correct": false },
+      { "letter": "B", "text": "Penicillium", "is_correct": false },
+      { "letter": "C", "text": "Virus", "is_correct": true },
+      { "letter": "D", "text": "Bacteria", "is_correct": false }
+    ]
+  },
+  {
+    "subject": "Aptitude Test",
+    "question_text": "Find out the alternative which will replace the question mark (Extravagant: Grandiose:: Impotent: ?)",
+    "explanation": null,
+    "options": [
+      { "letter": "A", "text": "Antagonist", "is_correct": false },
+      { "letter": "B", "text": "Powerless", "is_correct": true },
+      { "letter": "C", "text": "Happiness", "is_correct": false },
+      { "letter": "D", "text": "Gluttonous", "is_correct": false }
+    ]
+  },
+  {
+    "subject": "Aptitude Test",
+    "question_text": "Statement: 1: All clocks are watches. 2: Some clocks are alarm.\nConclusion: I: Some alarm are watches. II: All watches are alarm.",
+    "explanation": null,
+    "options": [
+      { "letter": "A", "text": "Only conclusion (I) follows", "is_correct": true },
+      { "letter": "B", "text": "Only conclusion (II) follows", "is_correct": false },
+      { "letter": "C", "text": "NONE of the options", "is_correct": false },
+      { "letter": "D", "text": "Both conclusion follow", "is_correct": false }
+    ]
+  },
+  {
+    "subject": "Aptitude Test",
+    "question_text": "Choose the word that best complete the sequence. Dwarf: Short and Giant: ______",
+    "explanation": null,
+    "options": [
+      { "letter": "A", "text": "tall", "is_correct": true },
+      { "letter": "B", "text": "frighten", "is_correct": false },
+      { "letter": "C", "text": "powerful", "is_correct": false },
+      { "letter": "D", "text": "great", "is_correct": false }
+    ]
+  },
+  {
+    "subject": "Aptitude Test",
+    "question_text": "Which of the following is the best for purifying water for drinking at a commercial scale?",
+    "explanation": null,
+    "options": [
+      { "letter": "A", "text": "Chlorine", "is_correct": true },
+      { "letter": "B", "text": "Moringa", "is_correct": false },
+      { "letter": "C", "text": "Boiling", "is_correct": false },
+      { "letter": "D", "text": "Alum", "is_correct": false }
+    ]
+  },
+  {
+    "subject": "Aptitude Test",
+    "question_text": "The last Ondo State Governorship election was held on",
+    "explanation": null,
+    "options": [
+      { "letter": "A", "text": "10th November, 2020.", "is_correct": false },
+      { "letter": "B", "text": "10th October, 2020.", "is_correct": true },
+      { "letter": "C", "text": "12th October, 2020.", "is_correct": false },
+      { "letter": "D", "text": "17th October, 2020.", "is_correct": false }
+    ]
+  },
+  {
+    "subject": "Biology",
+    "question_text": "The following are true about 'carbon footprint' except",
+    "explanation": null,
+    "options": [
+      { "letter": "A", "text": "logging is one of the keys to reducing our CO2 output.", "is_correct": true },
+      { "letter": "B", "text": "it is the amount of carbon dioxide a person is responsible for putting into the atmosphere.", "is_correct": false },
+      { "letter": "C", "text": "the more paper you use, the more you are contributing to carbon emissions.", "is_correct": false },
+      { "letter": "D", "text": "Water conservation is one of the keys to reducing our CO2 output.", "is_correct": false }
+    ]
+  },
+  {
+    "subject": "Biology",
+    "question_text": "The order in which organisms appear on a cleared plot is one of the followings:",
+    "explanation": null,
+    "options": [
+      { "letter": "A", "text": "Ecosystem", "is_correct": false },
+      { "letter": "B", "text": "Succession", "is_correct": true },
+      { "letter": "C", "text": "Food Web", "is_correct": false },
+      { "letter": "D", "text": "Food Chain", "is_correct": false }
+    ]
+  },
+  {
+    "subject": "Biology",
+    "question_text": "The function of mitosis in human includes all the following except",
+    "explanation": null,
+    "options": [
+      { "letter": "A", "text": "Growth", "is_correct": false },
+      { "letter": "B", "text": "Production of gamete", "is_correct": true },
+      { "letter": "C", "text": "Replacement of lost or damaged cells", "is_correct": false },
+      { "letter": "D", "text": "Multiplication of somatic cells", "is_correct": false }
+    ]
+  },
+  {
+    "subject": "Biology",
+    "question_text": "Which of the following is not a type of commensalism",
+    "explanation": null,
+    "options": [
+      { "letter": "A", "text": "Metabiosis", "is_correct": false },
+      { "letter": "B", "text": "Inquilinism", "is_correct": false },
+      { "letter": "C", "text": "Chemical", "is_correct": true },
+      { "letter": "D", "text": "Transpobiosis", "is_correct": false }
+    ]
+  },
+  {
+    "subject": "Biology",
+    "question_text": "The F1 of a cross between a tall and a dwarf plant was tall. The F1 was advanced to F2. How many of 120 F2 plants will be dwarf?",
+    "explanation": null,
+    "options": [
+      { "letter": "A", "text": "40", "is_correct": false },
+      { "letter": "B", "text": "60", "is_correct": false },
+      { "letter": "C", "text": "90", "is_correct": false },
+      { "letter": "D", "text": "30", "is_correct": true }
+    ]
+  },
+  {
+    "subject": "Biology",
+    "question_text": "The difference between an ecological niche and a habitat is that",
+    "explanation": null,
+    "options": [
+      { "letter": "A", "text": "the habitat is the 'environment' of the species and the ecological niche is the 'strategies' of the species.", "is_correct": false },
+      { "letter": "B", "text": "the habitat is the 'address' of the species and the ecological niche is the 'profession' of the species", "is_correct": true },
+      { "letter": "C", "text": "the habitat is the 'habit' of the species and the ecological niche is the 'resources' of the species.", "is_correct": false },
+      { "letter": "D", "text": "the habitat is the 'home' of the species and the ecological niche is the 'spatial habitat' of the species.", "is_correct": false }
+    ]
+  },
+  {
+    "subject": "Biology",
+    "question_text": "The simplest land plants are.....",
+    "explanation": null,
+    "options": [
+      { "letter": "A", "text": "Bryophytes", "is_correct": true },
+      { "letter": "B", "text": "Algae", "is_correct": false },
+      { "letter": "C", "text": "Pteridophytes", "is_correct": false },
+      { "letter": "D", "text": "Gymnosperms", "is_correct": false }
+    ]
+  },
+  {
+    "subject": "Biology",
+    "question_text": "Endoplasmic reticulum is involved in the synthesis of",
+    "explanation": null,
+    "options": [
+      { "letter": "A", "text": "Proteins", "is_correct": false },
+      { "letter": "B", "text": "Steroids and Lipids", "is_correct": false },
+      { "letter": "C", "text": "Proteins and Lipids", "is_correct": false },
+      { "letter": "D", "text": "Proteins, Steroids and lipids", "is_correct": true }
+    ]
+  },
+  {
+    "subject": "Biology",
+    "question_text": "Which of these statements is incorrect about Euglena?",
+    "explanation": null,
+    "options": [
+      { "letter": "A", "text": "Euglena has chloroplasts", "is_correct": false },
+      { "letter": "B", "text": "Euglena is a protist", "is_correct": false },
+      { "letter": "C", "text": "Euglena possess cell walls", "is_correct": true },
+      { "letter": "D", "text": "Euglena has a gullet for taking in food", "is_correct": false }
+    ]
+  },
+  {
+    "subject": "Biology",
+    "question_text": "Plants that are able to live in dry habitat are described as",
+    "explanation": null,
+    "options": [
+      { "letter": "A", "text": "Tolerants", "is_correct": false },
+      { "letter": "B", "text": "Xerophytes", "is_correct": true },
+      { "letter": "C", "text": "Hermophytes", "is_correct": false },
+      { "letter": "D", "text": "Mesophytes", "is_correct": false }
+    ]
+  },
+  {
+    "subject": "Chemistry",
+    "question_text": "Soil can be conserved by the following method except",
+    "explanation": null,
+    "options": [
+      { "letter": "A", "text": "Terracing", "is_correct": false },
+      { "letter": "B", "text": "Reforestation", "is_correct": false },
+      { "letter": "C", "text": "Deforestation", "is_correct": true },
+      { "letter": "D", "text": "Control grazing", "is_correct": false }
+    ]
+  },
+  {
+    "subject": "Chemistry",
+    "question_text": "The Austrian monk who studied the inheritance of characters is?",
+    "explanation": null,
+    "options": [
+      { "letter": "A", "text": "William S. Sutton", "is_correct": false },
+      { "letter": "B", "text": "Weismann", "is_correct": false },
+      { "letter": "C", "text": "G. Mendel", "is_correct": true },
+      { "letter": "D", "text": "G. Lamarck", "is_correct": false }
+    ]
+  },
+  {
+    "subject": "Chemistry",
+    "question_text": "Which of these trioxocarbonates (IV) cannot be decomposed by heat?",
+    "explanation": null,
+    "options": [
+      { "letter": "A", "text": "Potassium and Zinc trioxocarbonates", "is_correct": false },
+      { "letter": "B", "text": "Calcium and Sodium trioxocarbonates", "is_correct": false },
+      { "letter": "C", "text": "Magnesium and Potassium trioxocarbonates", "is_correct": false },
+      { "letter": "D", "text": "Sodium and Potassium trioxocarbonates", "is_correct": true }
+    ]
+  },
+  {
+    "subject": "Chemistry",
+    "question_text": "If 8 g of a radioactive isotope has a half-life of 10 hours. The half-life of 2 g of the same substance is",
+    "explanation": null,
+    "options": [
+      { "letter": "A", "text": "40 hours", "is_correct": false },
+      { "letter": "B", "text": "2.5 hours", "is_correct": false },
+      { "letter": "C", "text": "5 hours", "is_correct": false },
+      { "letter": "D", "text": "10 hours", "is_correct": true }
+    ]
+  },
+  {
+    "subject": "Chemistry",
+    "question_text": "What is the IUPAC name for (CH3)3C-CH2-CH(CH3)2?",
+    "explanation": null,
+    "options": [
+      { "letter": "A", "text": "1,1,3,3-tetramethylbutane", "is_correct": false },
+      { "letter": "B", "text": "1,3-pentamethylpropane", "is_correct": false },
+      { "letter": "C", "text": "2,2,4-trimethylpentane", "is_correct": true },
+      { "letter": "D", "text": "2,4,4-trimethylpentane", "is_correct": false }
+    ]
+  },
+  {
+    "subject": "Physics",
+    "question_text": "A constant force of 40N acting on a body initially at rest gives an acceleration of 0.1m/s² for 4s. Calculate the work done by the force.",
+    "explanation": null,
+    "options": [
+      { "letter": "A", "text": "32J", "is_correct": true },
+      { "letter": "B", "text": "30J", "is_correct": false },
+      { "letter": "C", "text": "20J", "is_correct": false },
+      { "letter": "D", "text": "28J", "is_correct": false }
+    ]
+  },
+  {
+    "subject": "Physics",
+    "question_text": "A battery has an emf of 8V when supplying a current of 4 A. What must be the sum of internal and external resistances?",
+    "explanation": null,
+    "options": [
+      { "letter": "A", "text": "2 Ω in series", "is_correct": true },
+      { "letter": "B", "text": "2 Ω in parallel", "is_correct": false },
+      { "letter": "C", "text": "4 Ω in parallel", "is_correct": false },
+      { "letter": "D", "text": "4 Ω in series", "is_correct": false }
+    ]
+  },
+  {
+    "subject": "Physics",
+    "question_text": "Which of these explains the change in speed of light?",
+    "explanation": null,
+    "options": [
+      { "letter": "A", "text": "Refraction", "is_correct": true },
+      { "letter": "B", "text": "Diffraction", "is_correct": false },
+      { "letter": "C", "text": "Reflection", "is_correct": false },
+      { "letter": "D", "text": "Polarisation", "is_correct": false }
+    ]
+  },
+  {
+    "subject": "Physics",
+    "question_text": "The following are the factors that affect the resistance of a conductor EXCEPT",
+    "explanation": null,
+    "options": [
+      { "letter": "A", "text": "The cross-sectional area of the wire", "is_correct": false },
+      { "letter": "B", "text": "The pressure exerted on the wire", "is_correct": true },
+      { "letter": "C", "text": "The length of the wire", "is_correct": false },
+      { "letter": "D", "text": "The temperature of the wire", "is_correct": false }
+    ]
+  },
+  {
+    "subject": "Physics",
+    "question_text": "Which of these is a natural magnet?",
+    "explanation": null,
+    "options": [
+      { "letter": "A", "text": "lodestone", "is_correct": true },
+      { "letter": "B", "text": "diamagnet", "is_correct": false },
+      { "letter": "C", "text": "ferromagnet", "is_correct": false },
+      { "letter": "D", "text": "electromagnet", "is_correct": false }
+    ]
+  }
+]
